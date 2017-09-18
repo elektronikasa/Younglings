@@ -91,9 +91,9 @@ go to [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http
 
 # Using Invision Inspect
 
-[![Inspect by InVision](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=TPwq3iYMzm4 "Inspect by InVision")
+[![Inspect by InVision](http://i3.ytimg.com/vi/TPwq3iYMzm4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TPwq3iYMzm4 "Inspect by InVision")
 
-[![Inspect by InVision](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=dSeU4OcvWyg "Inspect by InVision")
+[![Inspect by InVision](http://i3.ytimg.com/vi/dSeU4OcvWyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=dSeU4OcvWyg "Inspect by InVision")
 
 
 # Assessment: App Kit - Table of Contents
