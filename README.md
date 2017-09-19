@@ -56,22 +56,23 @@ npm run server:dev:hmr
 ```
 go to [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http://localhost:3000) in your browser
 
-# Assesment: Overview
+# Assessment: Overview
 * You will be coding a frontend template of a e-commerce platform
-* You will need to try create a pixel perfect product based on the supplied designs.
-* All images can be found in the assets folder in under img
-* Use Invision inspect to analyze the designs and get css hints
-* Extra marks will be rewarded to individuals who code the project in a modular fashion (hint - seperate css and structured file structure for components)
-* The home page component currently exists with a few helper components incase you get stuck.
-* Your page data can be hard coded although extra points can be won by creating a static json data file (examples are there for you to try)
+* You will need to try create a pixel perfect project based on the supplied designs guidelines on Invision.
+* You have the option to theme the store as you like. The world is your oyster :)
+* All images can be found already sliced in the assets folder under "src/assets/img/"
+* Use Invision inspect to analyze the designs and get css hints and guides.
+* Extra merit will be rewarded to individuals who code the project in a modular component style.  (hint - seperate css and structured file structure for components)
+* The home page component currently exists with a few helper blank components to help you.
+* Additinal challenge: Instead of hard coding the content create a json file with the variable parameters that populates the component with data. (examples are there for you to try)
 * Create your own github repository and commmit your changes at the end of every coding session.
-* Read this documentation very carefully as it will help you get up to spped with the project.
+* Read this documentation very carefully as it will help you get up to speed with the project.
 * Good Luck
 
 
 # Assessment Task 01
 
-* Download & Clone the repo
+* Clone/Download the repo then edit `app.component.ts` inside [`/src/app/app.component.ts`](/src/app/app.component.ts)
 * Code the homepage layout. Make the header and footer seperate modules as well as the slider and product block.
 * Setup and configure the premium Royalslider carousel plugin and ensure that it is compatible with angular by using the angular royalslider directive.
 * Code the single product template, think carefully of the router url structure here as planning the architecture of this project will be essential in getting good marks.
@@ -79,12 +80,12 @@ go to [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http
 * Use Invision to help you get the css properties of the designs seeing as you dont have access to photoshop. You will want to use the inpect tool on the design prototypes. see the invision access details and info below.
 
 
-# Accessing DESIGNS using Invision
+# Accessing supplied Style Guideline DESIGNS using Invision
 * URL: https://projects.invisionapp.com/d/login
 * Username: younglings@student-portal.co.za
 * PAssword: Younglings123!
 
-# Using Invision Inspect
+# Using Invision Inspect (css & style guideline helper)
 
 [![Inspect by InVision](http://i3.ytimg.com/vi/TPwq3iYMzm4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TPwq3iYMzm4 "Inspect by InVision")
 
